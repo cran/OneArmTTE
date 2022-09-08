@@ -1,0 +1,16 @@
+8de0593dac86af762f568c5fbf45272e *DESCRIPTION
+be51fc1a6af399268e03b77abaccdbe9 *NAMESPACE
+9b149f502b4b62fc2246ccc1f8fcf0a3 *R/OneArmTTEAnalysis.R
+fb233599b6220056207cc3afc53d03e2 *R/OneArmTTEDesign.R
+3f8ec2e303d990370a368c521828a2f5 *R/cumhazard.R
+9246067d674e334839cf84e3a559e7fb *R/data.R
+6c1e972aa24c3a95f54f4518bb329039 *R/global.R
+382ee9034dc5ba3c8260a18f37cf6f2e *R/rpwenroll.R
+368c02e1565646671d730d5da911beec *R/rpwexp.R
+275d66227d18ec8add5febdef904395c *data/example_data.rda
+0c3f099de3808eaa44319a0723bf1892 *man/OneArmTTEAnalysis.Rd
+89c7935be3303801dc4954e623595b74 *man/OneArmTTEDesign.Rd
+27812c1f4bb67943829e8183a041d23f *man/cumhazard.Rd
+a3b9b0165e13778b638e50b699d48973 *man/example_data.Rd
+e1bbe70c79b15bf24a1bc3c9f903eba3 *man/rpwenroll.Rd
+8231302d4f11884fa23937efab5378c4 *man/rpwexp.Rd
